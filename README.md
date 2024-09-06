@@ -32,3 +32,13 @@ mkdir: It is used to make a new directory.
 cd: It is used to change the directory.
 code: It is used to open the directory in Visual Studio Code.
 ls: It is used to see all the files that are present in that specific directory.
+
+## Why version control is important?
+
+Because it helps to manages and saves all changes to a file or files over time.
+There are many benefits by using version control..
+For example: Backup, Access control and tracking of all the changes made by the user..
+
+## With version control, it is possible to:
+
+Track all the changes and make many copies of a project and solve various issues..
